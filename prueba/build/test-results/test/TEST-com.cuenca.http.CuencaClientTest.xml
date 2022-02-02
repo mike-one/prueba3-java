@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cuenca.http.CuencaClientTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-01T22:52:26" hostname="MacBook-Pro-de-Miguel.local" time="0.075">
+  <properties/>
+  <testcase name="deleteClient()" classname="com.cuenca.http.CuencaClientTest" time="0.066"/>
+  <testcase name="patchClient()" classname="com.cuenca.http.CuencaClientTest" time="0.002"/>
+  <testcase name="getClient()" classname="com.cuenca.http.CuencaClientTest" time="0.002"/>
+  <testcase name="postClient()" classname="com.cuenca.http.CuencaClientTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
